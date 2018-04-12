@@ -1,8 +1,7 @@
 {
   "name": "cordova-plugin-pim",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Cordova Device PIM Plugin",
-  "types": "./types/index.d.ts",
   "cordova": {
     "id": "cordova-plugin-pim",
     "platforms": [
@@ -11,17 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-device"
+    "url": "https://github.com/HamedKaramoko/pim-plugin.git"
   },
   "keywords": [
     "cordova",
-    "device",
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios",
-    "cordova-windows",
-    "cordova-browser",
-    "cordova-osx"
+    "pim"
   ],
   "scripts": {
     "test": "npm run eslint",
